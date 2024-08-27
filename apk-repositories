@@ -1,0 +1,8 @@
+# Custom Alpine Linux package repositories
+
+https://dl-cdn.alpinelinux.org/alpine/v3.18/main
+https://dl-cdn.alpinelinux.org/alpine/v3.18/community
+
+# Uncomment the following line if you need testing packages
+
+https://dl-cdn.alpinelinux.org/alpine/v3.18/testing
